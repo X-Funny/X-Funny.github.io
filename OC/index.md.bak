@@ -1,0 +1,9 @@
+---
+title: OC
+date: 2023-05-25 23:50:12
+---
+<div class="gallery-group-main">
+{% galleryGroup 'OC' '喵橘彡' '/Gallery/OC' http://img.xfunny.top/IMG_20230523_224308.png %}
+</div>
+
+
